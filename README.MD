@@ -1,4 +1,4 @@
-# NYC Airbnb Host Popularity Prediction App
+# 🗽NYC Airbnb Host Popularity Prediction App
 
 This project predicts **Airbnb host popularity** using a stacked machine learning model that combines **XGBoost** and **Random Forest** with a **Ridge Regression** meta-learner. The notebook constructs a custom popularity score using review volume, listing price, and recent activity, making this a valuable tool for host performance analytics.
 

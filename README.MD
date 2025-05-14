@@ -35,8 +35,8 @@ This project predicts **Airbnb host popularity** using a stacked machine learnin
 ## Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/host-popularity-predictor.git
-cd host-popularity-predictor
+git clone https://github.com/berkde/New-York-City-Airbnb
+cd New-York-City-Airbnb
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
